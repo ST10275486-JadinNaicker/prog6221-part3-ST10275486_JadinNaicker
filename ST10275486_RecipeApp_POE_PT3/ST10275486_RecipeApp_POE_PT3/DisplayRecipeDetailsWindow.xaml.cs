@@ -33,7 +33,7 @@ namespace RecipeApp
             {
                 MessageBox.Show("Recipe not found.");
                 IngredientsListBox.ItemsSource = null; // Clear items if recipe not found
-                StepsListBox.ItemsSource = null; // Clear items if recipe not found
+                StepsListBox.ItemsSource = null; 
             }
         }
     }

@@ -2,7 +2,7 @@
 {
     public class RecipeProperties
     {
-        public string RecipeName { get; set; } // This should be RecipeName as per your class design
+        public string RecipeName { get; set; } 
         public double Quantity { get; set; }
         public double OriginalQuantity { get; } // Store original quantity
         public string Unit { get; set; }

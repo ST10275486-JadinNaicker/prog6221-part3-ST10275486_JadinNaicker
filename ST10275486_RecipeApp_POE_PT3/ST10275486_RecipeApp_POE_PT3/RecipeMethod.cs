@@ -31,8 +31,8 @@ namespace RecipeApp
             {
                 foreach (var ingredient in recipe.Ingredients)
                 {
-                    ingredient.Quantity *= factor;
-                    ingredient.Calories *= factor; // Scale calories along with quantity
+                    ingredient.Quantity *= factor; //Scales quantity
+                    ingredient.Calories *= factor; // Scale calories
                 }
             }
         }
@@ -44,11 +44,11 @@ namespace RecipeApp
             {
                 recipe.Revert(); // Revert the ingredients list to original
 
-                // Update the internal state of the recipes list
+               
                 var index = recipes.FindIndex(r => r.RecipeName.Equals(recipeName, StringComparison.OrdinalIgnoreCase));
                 if (index != -1)
                 {
-                    recipes[index] = recipe; // Replace the old recipe with the reverted one
+                    recipes[index] = recipe; 
                 }
             }
             else

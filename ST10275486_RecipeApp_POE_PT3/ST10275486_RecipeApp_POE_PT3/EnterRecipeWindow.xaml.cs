@@ -6,7 +6,7 @@ namespace RecipeApp
     {
         private RecipeMethod recipeManager;
 
-        public EnterRecipeWindow(RecipeMethod recipeManager)
+        public EnterRecipeWindow(RecipeMethod recipeManager) // Constructor that initializes the window and sets the recipe manager.
         {
             InitializeComponent();
             this.recipeManager = recipeManager;
@@ -17,14 +17,14 @@ namespace RecipeApp
             string recipeName = RecipeNameTextBox.Text;
             if (int.TryParse(NumberOfIngredientsTextBox.Text, out int numberOfIngredients))
             {
-                Recipes newRecipe = new Recipes(recipeName); // Create a new recipe instance
-                IngredientsWindow ingredientsWindow = new IngredientsWindow(newRecipe, numberOfIngredients, recipeManager);
+                Recipes newRecipe = new Recipes(recipeName); 
+                IngredientsWindow ingredientsWindow = new IngredientsWindow(newRecipe, numberOfIngredients, recipeManager); // Open the IngredientsWindow with the new recipe and number of ingredients.
                 ingredientsWindow.Show();
                 this.Close();
             }
             else
             {
-                MessageBox.Show("Please enter a valid number of ingredients.");
+                MessageBox.Show("Please enter a valid number of ingredients."); // Show an error message if the number of ingredients is not a valid integer.
             }
         }
     }
