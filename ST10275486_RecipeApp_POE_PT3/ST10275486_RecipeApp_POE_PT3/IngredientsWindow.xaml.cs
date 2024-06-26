@@ -14,12 +14,18 @@ namespace RecipeApp
         public IngredientsWindow(Recipes recipe, int numberOfIngredients, RecipeMethod recipeManager)
         {
             InitializeComponent();
-            this.recipeManager = recipeManager;
+            //Author: (Troelsen and Japikse, 2022)
+            //Avaiability: Pro C# 10 with .NET6 Apress
+            //Date Accessed: 10 June 2024
+            this.recipeManager = recipeManager; 
             this.recipeName = recipe.RecipeName;
             this.numberOfIngredients = numberOfIngredients;
             this.recipe = recipe;
 
             // Populates FoodGroupComboBox
+            //Author: (Troelsen and Japikse, 2022)
+            //Avaiability: Pro C# 10 with .NET6 Apress
+            //Date Accessed: 10 June 2024
             FoodGroupComboBox.Items.Add(new ComboBoxItem() { Content = "Grains" });
             FoodGroupComboBox.Items.Add(new ComboBoxItem() { Content = "Vegetables" });
             FoodGroupComboBox.Items.Add(new ComboBoxItem() { Content = "Fruits" });
@@ -45,6 +51,9 @@ namespace RecipeApp
                     RecipeProperties ingredient = new RecipeProperties(ingredientName, quantity, unit, calories, foodGroup);
                     recipe.Ingredients.Add(ingredient);
                     // Increment the current ingredient index.
+                    //Author: (Troelsen and Japikse, 2022)
+                    //Avaiability: Pro C# 10 with .NET6 Apress
+                    //Date Accessed: 10 June 2024
                     currentIngredientIndex++;
                     if (currentIngredientIndex >= numberOfIngredients)
                     {

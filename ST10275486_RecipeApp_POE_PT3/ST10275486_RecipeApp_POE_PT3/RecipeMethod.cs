@@ -7,7 +7,9 @@ namespace RecipeApp
 {
     public class RecipeMethod
     {
-        private List<Recipes> recipes = new List<Recipes>(); //Stores all recipes
+        private List<Recipes> recipes = new List<Recipes>(); //Stores all recipes //Author: (Troelsen and Japikse, 2022)
+                                                                                  //Avaiability: Pro C# 10 with .NET6 Apress
+                                                                                  //Date Accessed: 10 June 2024
 
         public void AddRecipe(Recipes recipe) //This method allows users to add recipes to the list
         {

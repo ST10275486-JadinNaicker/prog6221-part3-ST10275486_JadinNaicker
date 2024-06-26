@@ -8,14 +8,14 @@
             <Image Source="https://i.pinimg.com/564x/30/4d/34/304d34bb87ccd2ae3673123a2c68113e.jpg" Height="200" Margin="0,0,0,30" HorizontalAlignment="Center"/>
             <!-- Displays Image used for the main window -->
             <TextBlock Text="What would you like to do:" FontSize="20" FontWeight="Bold" Margin="0,0,0,20" Foreground="#E74C3C"/>
-            <Button Content="Create New Recipe" Click="EnterRecipe_Click" Margin="0,0,0,15" Padding="15,10" FontSize="18" Background="#2ECC71" Foreground="White"/>
-            <Button Content="View Recipe List" Click="DisplayRecipes_Click" Margin="0,0,0,15" Padding="15,10" FontSize="18" Background="#3498DB" Foreground="White"/>
-            <Button Content="Recipe Details" Click="DisplayRecipeDetails_Click" Margin="0,0,0,15" Padding="15,10" FontSize="18" Background="#3498DB" Foreground="White"/>
-            <Button Content="Scale Recipe" Click="ScaleRecipe_Click" Margin="0,0,0,15" Padding="15,10" FontSize="18" Background="#3498DB" Foreground="White"/>
-            <Button Content="Revert Recipe" Click="RevertRecipe_Click" Margin="0,0,0,15" Padding="15,10" FontSize="18" Background="#3498DB" Foreground="White"/>
-            <Button Content="Filter Recipes" Click="FilterRecipes_Click" Margin="0,0,0,15" Padding="15,10" FontSize="18" Background="#3498DB" Foreground="White"/>
-            <Button Content="Clear Recipes" Click="ClearRecipes_Click" Margin="0,0,0,15" Padding="15,10" FontSize="18" Background="#3498DB" Foreground="White"/>
-            <Button Content="Exit Application" Click="ExitApplication_Click" Margin="0,0,0,15" Padding="15,10" FontSize="18" Background="#E74C3C" Foreground="White"/>
+            <Button Content="Create New Recipe" Click="EnterRecipe_Click" Margin="0,0,0,10" Padding="10,7" FontSize="16" Background="#2ECC71" Foreground="White"/>
+            <Button Content="View Recipe List" Click="DisplayRecipes_Click" Margin="0,0,0,10" Padding="10,7" FontSize="16" Background="#3498DB" Foreground="White"/>
+            <Button Content="Recipe Details" Click="DisplayRecipeDetails_Click" Margin="0,0,0,10" Padding="10,7" FontSize="16" Background="#3498DB" Foreground="White"/>
+            <Button Content="Scale Recipe" Click="ScaleRecipe_Click" Margin="0,0,0,10" Padding="10,7" FontSize="16" Background="#3498DB" Foreground="White"/>
+            <Button Content="Revert Recipe" Click="RevertRecipe_Click" Margin="0,0,0,10" Padding="10,7" FontSize="16" Background="#3498DB" Foreground="White"/>
+            <Button Content="Filter Recipes" Click="FilterRecipes_Click" Margin="0,0,0,10" Padding="10,7" FontSize="16" Background="#3498DB" Foreground="White"/>
+            <Button Content="Clear Recipes" Click="ClearRecipes_Click" Margin="0,0,0,10" Padding="10,7" FontSize="16" Background="#3498DB" Foreground="White"/>
+            <Button Content="Exit Application" Click="ExitApplication_Click" Margin="0,0,0,10" Padding="10,7" FontSize="16" Background="#E74C3C" Foreground="White"/>
         </StackPanel>
     </Grid>
 </Window>

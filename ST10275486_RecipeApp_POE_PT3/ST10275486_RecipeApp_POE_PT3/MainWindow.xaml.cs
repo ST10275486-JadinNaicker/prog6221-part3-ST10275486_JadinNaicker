@@ -4,7 +4,9 @@ namespace RecipeApp
 {
     public partial class MainWindow : Window
     {
-        private RecipeMethod recipeManager = new RecipeMethod();
+        private RecipeMethod recipeManager = new RecipeMethod(); //Author: (Troelsen and Japikse, 2022)
+                                                                 //Avaiability: Pro C# 10 with .NET6 Apress
+                                                                 //Date Accessed: 10 June 2024
 
         public MainWindow()
         {

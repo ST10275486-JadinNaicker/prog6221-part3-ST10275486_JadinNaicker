@@ -20,8 +20,11 @@ namespace RecipeApp
             if (recipe != null)
             {
                 IngredientsListBox.ItemsSource = recipe.Ingredients;
+                //Formats steps
+                List<string> formattedSteps = new List<string>(); //Author: (Troelsen and Japikse, 2022)
+                                                                  //Avaiability: Pro C# 10 with .NET6 Apress
+                                                                  //Date Accessed: 10 June 2024
 
-                List<string> formattedSteps = new List<string>(); //Formats steps
                 for (int i = 0; i < recipe.Steps.Count; i++)
                 {
                     formattedSteps.Add($"Step {i + 1}: {recipe.Steps[i]}");
