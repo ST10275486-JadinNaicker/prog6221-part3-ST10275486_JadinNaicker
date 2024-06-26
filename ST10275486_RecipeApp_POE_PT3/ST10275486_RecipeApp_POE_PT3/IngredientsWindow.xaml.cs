@@ -5,10 +5,10 @@ namespace RecipeApp
 {
     public partial class IngredientsWindow : Window
     {
-        private RecipeMethod recipeManager;
-        private string recipeName;
-        private int numberOfIngredients;
-        private int currentIngredientIndex = 0;
+        private RecipeMethod recipeManager; 
+        private string recipeName;//Name of the recipe
+        private int numberOfIngredients; //Number of ingredients
+        private int currentIngredientIndex = 0; //Tracks the amount of ingredients being added
         private Recipes recipe;
 
         public IngredientsWindow(Recipes recipe, int numberOfIngredients, RecipeMethod recipeManager)
@@ -19,7 +19,7 @@ namespace RecipeApp
             this.numberOfIngredients = numberOfIngredients;
             this.recipe = recipe;
 
-            // Populate FoodGroupComboBox with items
+            // Populates FoodGroupComboBox
             FoodGroupComboBox.Items.Add(new ComboBoxItem() { Content = "Grains" });
             FoodGroupComboBox.Items.Add(new ComboBoxItem() { Content = "Vegetables" });
             FoodGroupComboBox.Items.Add(new ComboBoxItem() { Content = "Fruits" });
@@ -36,21 +36,21 @@ namespace RecipeApp
             string ingredientName = IngredientNameTextBox.Text;
             if (double.TryParse(QuantityTextBox.Text, out double quantity) &&
                 double.TryParse(CaloriesTextBox.Text, out double calories))
-            {
+            { // Get ingredient details from the text boxes.
                 string unit = UnitTextBox.Text;
                 string foodGroup = (FoodGroupComboBox.SelectedItem as ComboBoxItem)?.Content?.ToString();
 
-                if (foodGroup != null)
+                if (foodGroup != null)  // If a food group is selected, add the ingredient to the recipe.
                 {
                     RecipeProperties ingredient = new RecipeProperties(ingredientName, quantity, unit, calories, foodGroup);
                     recipe.Ingredients.Add(ingredient);
-
+                    // Increment the current ingredient index.
                     currentIngredientIndex++;
                     if (currentIngredientIndex >= numberOfIngredients)
                     {
                         MessageBox.Show("All ingredients added. Please click Finish.");
                     }
-                    else
+                    else // Clear the text boxes for the next ingredient.
                     {
                         IngredientNameTextBox.Clear();
                         QuantityTextBox.Clear();
@@ -84,11 +84,11 @@ namespace RecipeApp
         {
             if (currentIngredientIndex == numberOfIngredients)
             {
-                foreach (TextBox stepTextBox in StepsPanel.Children)
+                foreach (TextBox stepTextBox in StepsPanel.Children) // Add all steps from the text boxes to the recipe.
                 {
                     recipe.Steps.Add(stepTextBox.Text);
                 }
-
+                // Add the recipe to the recipe manager and show a success message.
                 recipeManager.AddRecipe(recipe);
                 MessageBox.Show("Recipe added successfully!");
                 this.Close();

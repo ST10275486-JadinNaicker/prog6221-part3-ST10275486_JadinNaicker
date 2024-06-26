@@ -7,9 +7,9 @@ namespace RecipeApp
 {
     public class RecipeMethod
     {
-        private List<Recipes> recipes = new List<Recipes>();
+        private List<Recipes> recipes = new List<Recipes>(); //Stores all recipes
 
-        public void AddRecipe(Recipes recipe)
+        public void AddRecipe(Recipes recipe) //This method allows users to add recipes to the list
         {
             recipes.Add(recipe);
         }
@@ -19,12 +19,12 @@ namespace RecipeApp
             return recipes;
         }
 
-        public Recipes GetRecipeByName(string name)
+        public Recipes GetRecipeByName(string name) // Method to get a recipe by its name
         {
             return recipes.FirstOrDefault(r => r.RecipeName.Equals(name, StringComparison.OrdinalIgnoreCase));
         }
 
-        public void ScaleRecipe(string recipeName, double factor)
+        public void ScaleRecipe(string recipeName, double factor) //Method to scale ingredients
         {
             var recipe = GetRecipeByName(recipeName);
             if (recipe != null)
@@ -37,7 +37,7 @@ namespace RecipeApp
             }
         }
 
-        public void RevertRecipe(string recipeName)
+        public void RevertRecipe(string recipeName) //Reverts ingredients to its orginal quantity
         {
             var recipe = GetRecipeByName(recipeName);
             if (recipe != null)
@@ -45,7 +45,7 @@ namespace RecipeApp
                 recipe.Revert(); // Revert the ingredients list to original
 
                
-                var index = recipes.FindIndex(r => r.RecipeName.Equals(recipeName, StringComparison.OrdinalIgnoreCase));
+                var index = recipes.FindIndex(r => r.RecipeName.Equals(recipeName, StringComparison.OrdinalIgnoreCase));  // Find the index of the recipe in the list and update it.
                 if (index != -1)
                 {
                     recipes[index] = recipe; 
@@ -57,7 +57,7 @@ namespace RecipeApp
             }
         }
 
-        public void ClearRecipes()
+        public void ClearRecipes() //Method to clear all recipes from list
         {
             recipes.Clear();
         }
@@ -67,7 +67,7 @@ namespace RecipeApp
             return recipes;
         }
 
-        public List<RecipeProperties> FilterRecipes(string ingredient = null, string foodGroup = null, double? maxCalories = null)
+        public List<RecipeProperties> FilterRecipes(string ingredient = null, string foodGroup = null, double? maxCalories = null) // Method to filter recipes based on ingredient, food group, and maximum calories.
         {
             return recipes
                 .SelectMany(r => r.Ingredients)

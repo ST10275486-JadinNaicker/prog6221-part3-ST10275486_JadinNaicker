@@ -15,9 +15,9 @@ namespace RecipeApp
         private void Scale_Click(object sender, RoutedEventArgs e)
         {
             string recipeName = RecipeNameTextBox.Text;
-            if (double.TryParse(ScalingFactorTextBox.Text, out double scalingFactor))
+            if (double.TryParse(ScalingFactorTextBox.Text, out double scalingFactor)) // Try to parse the scaling factor from the text box input.
             {
-                recipeManager.ScaleRecipe(recipeName, scalingFactor);
+                recipeManager.ScaleRecipe(recipeName, scalingFactor); // Scale the recipe using the specified scaling factor.
                 MessageBox.Show("Recipe scaled successfully!");
                 this.Close();
             }

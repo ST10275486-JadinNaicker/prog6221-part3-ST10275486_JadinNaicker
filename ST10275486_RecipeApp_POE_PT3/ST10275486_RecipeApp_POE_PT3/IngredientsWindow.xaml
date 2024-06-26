@@ -19,6 +19,7 @@
 
                 <TextBlock Text="Food Group" FontSize="16" FontWeight="Bold" Margin="0,0,0,5" Foreground="#333333"/>
                 <ComboBox Name="FoodGroupComboBox" Margin="0,0,0,10" Padding="10" FontSize="14" Background="White" BorderBrush="#CCCCCC" BorderThickness="1">
+                    <!-- ComboBox for selecting the food group -->
                     <ComboBoxItem Content="Vegetables"/>
                     <ComboBoxItem Content="Fruits"/>
                     <ComboBoxItem Content="Grains"/>

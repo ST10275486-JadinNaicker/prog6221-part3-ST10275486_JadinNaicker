@@ -21,8 +21,7 @@ namespace RecipeApp
             {
                 IngredientsListBox.ItemsSource = recipe.Ingredients;
 
-                // Format the steps
-                List<string> formattedSteps = new List<string>();
+                List<string> formattedSteps = new List<string>(); //Formats steps
                 for (int i = 0; i < recipe.Steps.Count; i++)
                 {
                     formattedSteps.Add($"Step {i + 1}: {recipe.Steps[i]}");
