@@ -58,5 +58,16 @@ Update to Read me based on Pt 2 feedback
 I updated the README to improve its layout and structure for better readability on GitHub. Key improvements include the use of clear headings and subheadings to organise the content into distinct sections such as Installation, Instructions to Use the Application, Main Window Options, Classes Used, WPF Windows, and Error Handling. Blocks of text were replaced with bullet points and numbered lists for easier scanning and understanding of the information. Code formatting with backticks was applied to highlight file names and methods, making the technical details stand out. These changes make the README more understandable and accessible for users to view it on GitHub.
 
 GitHub Link: https://github.com/ST10275486-JadinNaicker/prog6221-part3-ST10275486_JadinNaicker.git 
+YouTube: https://youtu.be/WV6wnyNf0fg 
+
+Bibliography
+------------
+Chand, M. (2018). XAML ComboBox. [online] www.c-sharpcorner.com. Available at: https://www.c-sharpcorner.com/UploadFile/mahesh/xaml-combobox/ [Accessed 20 Jun. 2024].
+Chand, M. (2023). Display Image In WPF using XAML and C#. [online] www.c-sharpcorner.com. Available at: https://www.c-sharpcorner.com/UploadFile/mahesh/using-xaml-image-in-wpf/ [Accessed 23 Jun. 2024].
+Microsoft (n.d.). TextBlock.FontStyle Property (System.Windows.Controls). [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.textblock.fontstyle?view=windowsdesktop-8.0 [Accessed 20 Jun. 2024].
+Saini, A. (2018). Collections in C#. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/collections-in-c-sharp/ [Accessed 19 Jun. 2024].
+Troelsen, A. and Japikse, P. (2022). Pro C# 10 with .NET 6. Apress.
+w3schools (n.d.). C# Switch. [online] www.w3schools.com. Available at: https://www.w3schools.com/cs/cs_switch.php [Accessed 27 May 2024].
+
 
 
