@@ -3,80 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\ingredientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\ingredientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\revertrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\revertrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\revertrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\revertrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\scalerecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\scalerecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\scalerecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\scalerecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\displayrecipedetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\displayrecipedetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\displayrecipedetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\displayrecipedetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\displayrecipeswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\displayrecipeswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\displayrecipeswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\displayrecipeswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\filterrecipeswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\filterrecipeswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\filterrecipeswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\filterrecipeswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\enterrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\enterrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\enterrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\enterrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\ingredientswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\ingredientswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\revertrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\revertrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\revertrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\revertrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\scalerecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\scalerecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\displayrecipedetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\displayrecipedetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\displayrecipedetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\displayrecipedetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\displayrecipeswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\displayrecipeswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\filterrecipeswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\filterrecipeswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\filterrecipeswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\filterrecipeswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\enterrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\enterrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\enterrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\enterrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\ingredientswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\ingredientswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\ingredientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\ingredientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\recipemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\recipemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\recipemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\recipeproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\recipeproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\recipeproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\st10275486_recipeapp_poe_pt3\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\scalerecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\scalerecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|c:\\users\\jadin\\source\\repos\\st10275486_recipeapp_poe_pt3\\st10275486_recipeapp_poe_pt3\\displayrecipeswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0929E9-C1AE-472A-A35A-4683407FC611}|ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3.csproj|solutionrelative:st10275486_recipeapp_poe_pt3\\displayrecipeswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,12 +86,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -114,20 +110,48 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IngredientsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml",
+              "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml",
+              "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T08:13:37.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml",
+              "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T11:24:04.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RevertRecipeWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\RevertRecipeWindow.xaml.cs",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\RevertRecipeWindow.xaml.cs",
               "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\RevertRecipeWindow.xaml.cs",
               "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\RevertRecipeWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T13:46:05.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "RevertRecipeWindow.xaml",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\RevertRecipeWindow.xaml",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\RevertRecipeWindow.xaml",
@@ -139,13 +163,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
               "Title": "ScaleRecipeWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\ScaleRecipeWindow.xaml.cs",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\ScaleRecipeWindow.xaml.cs",
               "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\ScaleRecipeWindow.xaml.cs",
               "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\ScaleRecipeWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T13:46:01.537Z",
               "EditorCaption": ""
@@ -164,20 +188,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DisplayRecipeDetailsWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\DisplayRecipeDetailsWindow.xaml.cs",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\DisplayRecipeDetailsWindow.xaml.cs",
               "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\DisplayRecipeDetailsWindow.xaml.cs",
               "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\DisplayRecipeDetailsWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABfAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBkAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T13:45:53.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "DisplayRecipeDetailsWindow.xaml",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\DisplayRecipeDetailsWindow.xaml",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\DisplayRecipeDetailsWindow.xaml",
@@ -189,13 +213,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 8,
               "Title": "DisplayRecipesWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\DisplayRecipesWindow.xaml.cs",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\DisplayRecipesWindow.xaml.cs",
               "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\DisplayRecipesWindow.xaml.cs",
               "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\DisplayRecipesWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T13:45:49.21Z",
               "EditorCaption": ""
@@ -214,20 +238,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "FilterRecipesWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\FilterRecipesWindow.xaml.cs",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\FilterRecipesWindow.xaml.cs",
               "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\FilterRecipesWindow.xaml.cs",
               "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\FilterRecipesWindow.xaml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAnAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwBUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T13:45:41.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FilterRecipesWindow.xaml",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\FilterRecipesWindow.xaml",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\FilterRecipesWindow.xaml",
@@ -239,20 +263,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "EnterRecipeWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\EnterRecipeWindow.xaml.cs",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\EnterRecipeWindow.xaml.cs",
               "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\EnterRecipeWindow.xaml.cs",
               "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\EnterRecipeWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T13:45:30.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "EnterRecipeWindow.xaml",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\EnterRecipeWindow.xaml",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\EnterRecipeWindow.xaml",
@@ -264,89 +288,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IngredientsWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml.cs",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml.cs",
               "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml.cs",
               "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAYwDcAAAAxAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwDcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T13:45:01.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IngredientsWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml",
-              "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml",
-              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml",
-              "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\IngredientsWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-26T13:44:59.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml",
-              "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-25T11:24:04.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml.cs",
               "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAABeAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAADwvwgAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T10:27:27.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "RecipeMethod.cs",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\RecipeMethod.cs",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\RecipeMethod.cs",
               "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\RecipeMethod.cs",
               "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\RecipeMethod.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABvAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAIwAsAAABvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T13:44:39.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "RecipeProperties.cs",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\RecipeProperties.cs",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\RecipeProperties.cs",
               "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\RecipeProperties.cs",
               "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\RecipeProperties.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T13:44:38.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Recipes.cs",
               "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\Recipes.cs",
               "RelativeDocumentMoniker": "ST10275486_RecipeApp_POE_PT3\\Recipes.cs",
               "ToolTip": "C:\\Users\\jadin\\source\\repos\\ST10275486_RecipeApp_POE_PT3\\ST10275486_RecipeApp_POE_PT3\\Recipes.cs",
               "RelativeToolTip": "ST10275486_RecipeApp_POE_PT3\\Recipes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T13:44:37.32Z",
               "EditorCaption": ""

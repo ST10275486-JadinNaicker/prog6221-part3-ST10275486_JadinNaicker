@@ -9,6 +9,7 @@
             <TextBlock Text="Enter the number of ingredients:" FontSize="18" FontWeight="Bold" Margin="0,0,0,10" Foreground="#333333"/>
             <TextBox Name="NumberOfIngredientsTextBox" Margin="0,0,0,20" Padding="10" FontSize="16" Background="WhiteSmoke" BorderBrush="#CCCCCC" BorderThickness="1"/>
             <Button Content="Next" Click="Next_Click" Margin="0,0,0,10" Padding="15,10" FontSize="16" Background="#4CAF50" Foreground="White"/>
+            <Image Source="https://cdn.thewirecutter.com/wp-content/uploads/2019/09/rollingpins-lowres-7740.jpg" Width="544" Height="145"/>
         </StackPanel>
     </Grid>
 </Window>

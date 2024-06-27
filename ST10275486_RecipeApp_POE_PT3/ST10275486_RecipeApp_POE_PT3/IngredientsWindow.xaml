@@ -11,7 +11,7 @@
                 <TextBlock Text="Quantity" FontSize="16" FontWeight="Bold" Margin="0,0,0,5" Foreground="#333333"/>
                 <TextBox Name="QuantityTextBox" Margin="0,0,0,10" Padding="10" FontSize="14" Background="White" BorderBrush="#CCCCCC" BorderThickness="1"/>
 
-                <TextBlock Text="Unit" FontSize="16" FontWeight="Bold" Margin="0,0,0,5" Foreground="#333333"/>
+                <TextBlock Text="Unit of Measurement" FontSize="16" FontWeight="Bold" Margin="0,0,0,5" Foreground="#333333"/>
                 <TextBox Name="UnitTextBox" Margin="0,0,0,10" Padding="10" FontSize="14" Background="White" BorderBrush="#CCCCCC" BorderThickness="1"/>
 
                 <TextBlock Text="Calories" FontSize="16" FontWeight="Bold" Margin="0,0,0,5" Foreground="#333333"/>
