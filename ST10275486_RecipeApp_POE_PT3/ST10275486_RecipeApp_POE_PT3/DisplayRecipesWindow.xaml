@@ -3,6 +3,9 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Display Recipes" Height="450" Width="800">
     <Window.Resources>
+        <!-- Author: Microsoft -->
+        <!--Avaliability: https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.textblock.fontstyle?view=windowsdesktop-8.0 -->
+        <!--Date Accessed: 20 June 2024-->
         <Style TargetType="ListBox">
             <Setter Property="Margin" Value="10"/>
             <Setter Property="Padding" Value="5"/>

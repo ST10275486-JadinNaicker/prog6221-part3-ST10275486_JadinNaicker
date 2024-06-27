@@ -5,8 +5,11 @@
     <Grid>
         <StackPanel Margin="20">
             <TextBlock Text="Sanele's Recipe App" FontSize="30" FontWeight="Bold" Margin="0,0,0,30" HorizontalAlignment="Center" Foreground="#E74C3C"/>
-            <Image Source="https://i.pinimg.com/564x/30/4d/34/304d34bb87ccd2ae3673123a2c68113e.jpg" Height="200" Margin="0,0,0,30" HorizontalAlignment="Center"/>
             <!-- Displays Image used for the main window -->
+            <!-- Author: Mahesh Chand -->
+            <!--Avaliability: https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/-->
+            <!--Date Accessed: 23 June 2024-->
+            <Image Source="https://i.pinimg.com/564x/30/4d/34/304d34bb87ccd2ae3673123a2c68113e.jpg" Height="200" Margin="0,0,0,30" HorizontalAlignment="Center"/>
             <TextBlock Text="What would you like to do:" FontSize="20" FontWeight="Bold" Margin="0,0,0,20" Foreground="#E74C3C"/>
             <Button Content="Create New Recipe" Click="EnterRecipe_Click" Margin="0,0,0,10" Padding="10,7" FontSize="16" Background="#2ECC71" Foreground="White"/>
             <Button Content="View Recipe List" Click="DisplayRecipes_Click" Margin="0,0,0,10" Padding="10,7" FontSize="16" Background="#3498DB" Foreground="White"/>

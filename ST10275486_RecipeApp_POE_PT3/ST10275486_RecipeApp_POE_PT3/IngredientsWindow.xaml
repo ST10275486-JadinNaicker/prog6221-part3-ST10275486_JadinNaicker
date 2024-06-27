@@ -20,6 +20,9 @@
                 <TextBlock Text="Food Group" FontSize="16" FontWeight="Bold" Margin="0,0,0,5" Foreground="#333333"/>
                 <ComboBox Name="FoodGroupComboBox" Margin="0,0,0,10" Padding="10" FontSize="14" Background="White" BorderBrush="#CCCCCC" BorderThickness="1">
                     <!-- ComboBox for selecting the food group -->
+                    <!-- Author: Mahesh Chand -->
+                    <!--Avaliability: https://www.c-sharpcorner.com/UploadFile/mahesh/xaml-combobox/ -->
+                    <!--Date Accessed: 20 June 2024-->
                     <ComboBoxItem Content="Vegetables"/>
                     <ComboBoxItem Content="Fruits"/>
                     <ComboBoxItem Content="Grains"/>

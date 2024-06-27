@@ -18,7 +18,7 @@ namespace RecipeApp
 
         private void ApplyFilterButton_Click(object sender, RoutedEventArgs e)
         { //Author: (Troelsen and Japikse, 2022)
-          //Avaiability: Pro C# 10 with .NET6 Apress
+          //Availability: Pro C# 10 with .NET6 Apress
           //Date Accessed: 10 June 2024
             var selectedFilter = (FilterTypeComboBox.SelectedItem as ComboBoxItem)?.Content.ToString();
             var filterValue = FilterValueTextBox.Text;

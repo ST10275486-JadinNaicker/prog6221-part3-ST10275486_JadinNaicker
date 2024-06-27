@@ -7,7 +7,7 @@ namespace RecipeApp
         public string RecipeName { get; set; } //Stores the name of the recipe.
         public List<RecipeProperties> Ingredients { get; set; }         // Generic collection to store ingredients  //Author: Geeks for Geeks
                                                                         //Availability: https://www.geeksforgeeks.org/collections-in-c-sharp/
-                                                                        //Date Accessed: 25 May 2024
+                                                                        //Date Accessed: 19 June 2024
          private List<RecipeProperties> originalIngredients;             
         public List<string> Steps { get; set; } //Stores the recipe steps
 

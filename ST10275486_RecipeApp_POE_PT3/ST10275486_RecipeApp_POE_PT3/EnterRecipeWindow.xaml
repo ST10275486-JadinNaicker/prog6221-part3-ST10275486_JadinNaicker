@@ -3,7 +3,9 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Enter Recipe" Height="450" Width="800" Background="#F0F0F0">
     <Grid>
-        <StackPanel Margin="20">
+        <StackPanel Margin="20"> <!-- Author: Microsoft -->
+                                 <!--Avaliability: https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.textblock.fontstyle?view=windowsdesktop-8.0 -->
+                                 <!--Date Accessed: 20 June 2024-->
             <TextBlock Text="Enter the recipe name:" FontSize="18" FontWeight="Bold" Margin="0,0,0,10" Foreground="#333333"/>
             <TextBox Name="RecipeNameTextBox" Margin="0,0,0,20" Padding="10" FontSize="16" Background="WhiteSmoke" BorderBrush="#CCCCCC" BorderThickness="1"/>
             <TextBlock Text="Enter the number of ingredients:" FontSize="18" FontWeight="Bold" Margin="0,0,0,10" Foreground="#333333"/>
